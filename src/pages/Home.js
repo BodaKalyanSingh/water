@@ -74,11 +74,6 @@ export default function Home() {
               </a>
               <Link to="/brands" className="btn btn-outline">View Brands</Link>
             </div>
-            <div className="hero__contact anim-fadeup anim-delay-4">
-              <a href="tel:+919177576617">📞 +91 91775 76617</a>
-              <a href="mailto:suman.guguloth06@gmail.com">✉️ suman.guguloth06@gmail.com</a>
-              <span>📍 1-7-1792, Balasamudram Beside Kaloji Kalakshetram, Hanmakonda, Telangana – 506001</span>
-            </div>
           </div>
           <div className="hero__visual anim-fadeup anim-delay-2">
             <Slideshow />
