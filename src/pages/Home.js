@@ -69,7 +69,7 @@ export default function Home() {
               Ashwini Water Solutions delivers industry-leading purifiers for homes and businesses — backed by expert installation and lifetime support.
             </p>
             <div className="hero__actions anim-fadeup anim-delay-3">
-              <a href="https://wa.me/919876543210" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/919177576617" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
                 Get a Free Quote
               </a>
               <Link to="/brands" className="btn btn-outline">View Brands</Link>
